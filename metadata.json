@@ -1,0 +1,8 @@
+{
+  "name": "Studio | Warm \u0026 Modern Retail 2",
+  "description": "Production-ready warm \u0026 modern retail e-commerce application featuring interactive studio lighting canvas, 3D hero carousel, quick-view modal, live drawer cart, and predictive search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
